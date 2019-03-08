@@ -1,0 +1,15 @@
+{
+    "name":"dmitryfursneklo/neklo_ldap",
+    "type":"magento-module",
+    "license":"OSL-3.0",
+    "homepage":"https://github.com/DmitryFursNeklo/neklo_ldap",
+    "description":"Magento Login Administrator by LDAP provides an interface to set LDAP configuration and enable LDAP user account to login admin panel.",
+    "authors":[
+        {
+            "name":"Dmitry Furs"
+        }
+    ],
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
